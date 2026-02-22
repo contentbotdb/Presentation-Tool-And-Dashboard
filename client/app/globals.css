@@ -1,4 +1,7 @@
 @import "tailwindcss";
+@import "@flaticon/flaticon-uicons/css/regular/rounded.css";
+@import "@flaticon/flaticon-uicons/css/thin/rounded.css";
+@import "@flaticon/flaticon-uicons/css/solid/rounded.css";
 
 :root {
   --background: #ffffff;
